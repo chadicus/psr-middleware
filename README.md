@@ -1,8 +1,5 @@
 # Chadicus\Psr\Middlware
 
-[![Build Status](https://travis-ci.org/chadicus/psr-middleware.svg?branch=master)](https://travis-ci.org/chadicus/psr-middleware)
-[![Code Quality](https://scrutinizer-ci.com/g/chadicus/psr-middleware/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/chadicus/psr-middleware/?branch=master)
-
 [![Latest Stable Version](https://poser.pugx.org/chadicus/psr-middleware/v/stable)](https://packagist.org/packages/chadicus/psr-middleware)
 [![Latest Unstable Version](https://poser.pugx.org/chadicus/psr-middleware/v/unstable)](https://packagist.org/packages/chadicus/psr-middleware)
 [![License](https://poser.pugx.org/chadicus/psr-middleware/license)](https://packagist.org/packages/chadicus/psr-middleware)
