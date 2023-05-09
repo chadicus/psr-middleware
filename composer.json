@@ -19,5 +19,8 @@
     },
     "autoload": {
         "psr-4": {"Chadicus\\Psr\\Middleware\\" : "src"}
+    },
+    "scripts": {
+        "lint": "vendor/bin/phpcs"
     }
 }
