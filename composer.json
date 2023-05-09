@@ -2,13 +2,6 @@
     "name": "chadicus/psr-middleware",
     "description": "Foundational interface for PSR-7 middleware",
     "keywords": ["psr", "middleware"],
-    "authors": [
-        {
-            "name": "Chad Gray",
-            "email": "chadwickgray@gmail.com",
-            "role": "Developer"
-        }
-    ],
     "license": "MIT",
     "require": {
         "php": "^5.6 || ^7.0 || ^8.0",
